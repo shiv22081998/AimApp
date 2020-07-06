@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">AimApp</string>
+    <string name="enter_the_id_number">Enter the id number</string>
+    <string name="submit">SUBMIT</string>
+    <string name="textview">TextView</string>
+    <string name="dob">Date of birth:</string>
+    <string name="gender">Gender:</string>
+    <string name="nationality">Nationality:</string>
+    <string name="newline">\n</string>
+    <string name="permanentr">Permanent Resident</string>
+    <string name="sacit">SA Citizen</string>
+    <string name="fm">female</string>
+    <string name="m">male</string>
+</resources>
